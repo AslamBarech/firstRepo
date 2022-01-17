@@ -11,8 +11,7 @@
 
 # 3- Line Break
 This is line break.\
-Double Entee or / or \
-
+Double Entee or \
 
 # 4- Combine Headings and Special Tesx
 
